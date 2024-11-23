@@ -1,8 +1,6 @@
 # PERN Stack Project: Build a Real Time Chat App | Postgres, TypeScript, Prisma
 
-![Demo App](https://i.ibb.co/RC4pW36/Group-124.png)
 
-[Video Tutorial on Youtube](https://youtu.be/vL24eiwAG_g)
 
 Some Features:
 
@@ -45,4 +43,4 @@ npm run build
 npm start
 ```
 
-### Like and Subscribe 🌟
+
